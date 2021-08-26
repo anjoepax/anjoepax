@@ -2,7 +2,7 @@
 - 👀 I’m interested in test automation, oop and functional programming, data structure, and design patterns
 - 🌱 I’m currently learning Selenium WebDriver in C#, Java, Python, and JS
 - 💞️ I’m looking to collaborate on creating open source test automation framework and contributing to real open source projects
-- 📫 How to reach me anthony.j.m.manigos@gmail.com
+- 📫 Reach me through my email anthony.j.m.manigos@gmail.com 
 
 <!---
 anjoepax/anjoepax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
